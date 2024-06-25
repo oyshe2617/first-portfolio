@@ -1,0 +1,11 @@
+body {}
+
+.navber {
+    display: flex;
+
+}
+
+.navber ul {
+    display: flex;
+    align-items: center;
+}
